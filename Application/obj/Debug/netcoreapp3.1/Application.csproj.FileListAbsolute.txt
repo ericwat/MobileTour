@@ -1,0 +1,11 @@
+/Users/ericwat/Projects/MobileTour/Application/bin/Debug/netcoreapp3.1/Application.deps.json
+/Users/ericwat/Projects/MobileTour/Application/bin/Debug/netcoreapp3.1/Application.dll
+/Users/ericwat/Projects/MobileTour/Application/bin/Debug/netcoreapp3.1/Application.pdb
+/Users/ericwat/Projects/MobileTour/Application/obj/Debug/netcoreapp3.1/Application.GlobalUsings.g.cs
+/Users/ericwat/Projects/MobileTour/Application/obj/Debug/netcoreapp3.1/Application.csproj.AssemblyReference.cache
+/Users/ericwat/Projects/MobileTour/Application/obj/Debug/netcoreapp3.1/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericwat/Projects/MobileTour/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfoInputs.cache
+/Users/ericwat/Projects/MobileTour/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfo.cs
+/Users/ericwat/Projects/MobileTour/Application/obj/Debug/netcoreapp3.1/Application.csproj.CoreCompileInputs.cache
+/Users/ericwat/Projects/MobileTour/Application/obj/Debug/netcoreapp3.1/Application.dll
+/Users/ericwat/Projects/MobileTour/Application/obj/Debug/netcoreapp3.1/Application.pdb
