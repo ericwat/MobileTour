@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S79c0HidznrxofIaLkhIepyGuCaRVjMGq7nVHo7pwi/mwCKvJM/bClM4yAP2gEBHSDxrmtP79Lk/gwuLZVjBOw==",
+  "dgSpecHash": "8slGhqVLDaHJVdSUpMRcjf0mtTfOXm2byuYxE17qB1ZzHP2IU6neV9S5OA3nHslwC0CbhUzSFX6RFDUlyMWMxA==",
   "success": true,
-  "projectFilePath": "/Users/ericwat/Projects/MobileTour/Domain.UnitTests/Domain.UnitTests.csproj",
+  "projectFilePath": "/Users/ericwat/Documents/Developer/MobileTour/Domain.UnitTests/Domain.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/ericwat/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/ericwat/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",

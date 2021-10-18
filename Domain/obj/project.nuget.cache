@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rzhqSD41C1eCm6SVNtdqwwnq1jqWhRRpC3MBSdsghyMhgHvvRUAYNVB44Sc10WbxqW1UmXjS857biIshqVDYTA==",
+  "dgSpecHash": "bhqsd27gk5gDBWtsIWUWUAM7w3tquu0gFPjCfGsXHzGggpxGy/KqA6rRGPumRrg6otRKtk/i2cPPbuHiveHMYQ==",
   "success": true,
-  "projectFilePath": "/Users/ericwat/Projects/MobileTour/Domain/Domain.csproj",
+  "projectFilePath": "/Users/ericwat/Documents/Developer/MobileTour/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

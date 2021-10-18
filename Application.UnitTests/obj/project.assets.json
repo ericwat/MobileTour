@@ -5923,11 +5923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericwat/Projects/MobileTour/Application.UnitTests/Application.UnitTests.csproj",
+      "projectUniqueName": "/Users/ericwat/Documents/Developer/MobileTour/Application.UnitTests/Application.UnitTests.csproj",
       "projectName": "Application.UnitTests",
-      "projectPath": "/Users/ericwat/Projects/MobileTour/Application.UnitTests/Application.UnitTests.csproj",
+      "projectPath": "/Users/ericwat/Documents/Developer/MobileTour/Application.UnitTests/Application.UnitTests.csproj",
       "packagesPath": "/Users/ericwat/.nuget/packages/",
-      "outputPath": "/Users/ericwat/Projects/MobileTour/Application.UnitTests/obj/",
+      "outputPath": "/Users/ericwat/Documents/Developer/MobileTour/Application.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericwat/Projects/MobileTour/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/ericwat/Documents/Developer/MobileTour/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/ericwat/Projects/MobileTour/Domain/Domain.csproj",
+      "projectPath": "/Users/ericwat/Documents/Developer/MobileTour/Domain/Domain.csproj",
       "packagesPath": "/Users/ericwat/.nuget/packages/",
-      "outputPath": "/Users/ericwat/Projects/MobileTour/Domain/obj/",
+      "outputPath": "/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

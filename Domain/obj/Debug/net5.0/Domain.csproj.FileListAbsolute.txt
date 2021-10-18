@@ -11,3 +11,16 @@
 /Users/ericwat/Projects/MobileTour/Domain/obj/Debug/net5.0/Domain.dll
 /Users/ericwat/Projects/MobileTour/Domain/obj/Debug/net5.0/ref/Domain.dll
 /Users/ericwat/Projects/MobileTour/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/ericwat/Documents/Developer/MobileTour/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/ericwat/Documents/Developer/MobileTour/Domain/bin/Debug/net5.0/Domain.dll
+/Users/ericwat/Documents/Developer/MobileTour/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/ericwat/Documents/Developer/MobileTour/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/Domain.GlobalUsings.g.cs
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/Domain.dll
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/ericwat/Documents/Developer/MobileTour/Domain/obj/Debug/net5.0/Domain.pdb

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericwat/Projects/MobileTour/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/ericwat/Documents/Developer/MobileTour/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/ericwat/Projects/MobileTour/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/ericwat/Documents/Developer/MobileTour/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/ericwat/.nuget/packages/",
-      "outputPath": "/Users/ericwat/Projects/MobileTour/Infrastructure/obj/",
+      "outputPath": "/Users/ericwat/Documents/Developer/MobileTour/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
