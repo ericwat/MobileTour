@@ -8,4 +8,15 @@
         <LangVersion>10</LangVersion>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Common\Behaviors" />
+      <Folder Include="Common\Exceptions" />
+      <Folder Include="Common\Interfaces" />
+      <Folder Include="Common\Mappings" />
+      <Folder Include="Common\Models" />
+      <Folder Include="Common\Security" />
+      <Folder Include="Tours\Commands" />
+      <Folder Include="Tours\Queries" />
+    </ItemGroup>
+
 </Project>

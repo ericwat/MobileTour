@@ -9,4 +9,13 @@
         <RootNamespace>MobileTour.Domain</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Common" />
+      <Folder Include="Entities" />
+      <Folder Include="Enums\EventType" />
+      <Folder Include="Events" />
+      <Folder Include="Exceptions" />
+      <Folder Include="ValueObjects" />
+    </ItemGroup>
+
 </Project>

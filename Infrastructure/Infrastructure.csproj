@@ -8,4 +8,9 @@
         <LangVersion>10</LangVersion>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Persistence\Configuration" />
+      <Folder Include="Services" />
+    </ItemGroup>
+
 </Project>

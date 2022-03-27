@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8slGhqVLDaHJVdSUpMRcjf0mtTfOXm2byuYxE17qB1ZzHP2IU6neV9S5OA3nHslwC0CbhUzSFX6RFDUlyMWMxA==",
+  "dgSpecHash": "nFAcNQmJqGpIqg3V1b2B/TNofLh3Ku1jPBsn05VSiz1GeYUS5rLQyftQkmh2qxoB3wESBLri+oxajEfJdvAbEQ==",
   "success": true,
   "projectFilePath": "/Users/ericwat/Documents/Developer/MobileTour/Domain.UnitTests/Domain.UnitTests.csproj",
   "expectedPackageFiles": [
